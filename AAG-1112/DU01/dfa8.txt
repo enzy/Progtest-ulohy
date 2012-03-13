@@ -1,0 +1,26 @@
+DFA a b c d
+>S I A D E
+ A - - - B
+ B C - - -
+ C - - F -
+ D H - - -
+ E K - - -
+ F V - - -
+ G W - - -
+ H - - - J
+ I - - G M
+ J - - - O
+ K - - - P
+ L - - - Q
+ M N L D T
+ N - - G U
+ O - V - -
+ P - X - -
+ Q C V - -
+ R C X - -
+ T K V - -
+ U N Y D T
+<V - - - -
+<W W - - -
+<X - - - P
+<Y - - - R
